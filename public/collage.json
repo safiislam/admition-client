@@ -1,0 +1,193 @@
+[
+    {   "collageId":1,
+        "collegeName": "BRAC University",
+        "collegeImage": "https://static.dezeen.com/uploads/2020/03/brac-university-campus-woha-architecture-urbanism-banglades_dezeen_2364_sq.jpg",
+        "admissionDate": "September 1, 2023",
+        "numberOfResearch": "50",
+        "collegeRating": 4.7,
+        "admitionSubject":["Math","Physics","Chemistry","Biology","CSE","EEE","IBA"],
+        "discription":"BRAC University, located in Dhaka, Bangladesh, is a leading institution known for its commitment to academic excellence and social impact. Established by BRAC, the world's largest non-governmental development organization, the university aims to empower students with a holistic education that combines theoretical knowledge with practical skills. With state-of-the-art facilities and a diverse faculty, BRAC University offers a wide range of undergraduate and postgraduate programs in various disciplines. Emphasizing innovation and research, the university fosters a dynamic learning environment that prepares students to become responsible global citizens and contribute positively to society.",
+        "events": [
+            {
+                "eventName": "College Fest 2023",
+                "eventDate": "October 15-17, 2023",
+                "eventDescription": "Join us for an exciting three-day college fest filled with music, dance, competitions, and more!"
+            },
+            {
+                "eventName": "Career Fair 2023",
+                "eventDate": "November 5, 2023",
+                "eventDescription": "Meet with top companies and explore job opportunities during our annual career fair."
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "facilityName": "University Sports Complex",
+                "facilityDescription": "Our state-of-the-art sports complex offers a wide range of facilities, including a swimming pool, basketball court, tennis court, and a gym."
+            },
+            {
+                "facilityName": "Football Stadium",
+                "facilityDescription": "Cheer for our university football team at the impressive football stadium with seating capacity for over 10,000 spectators."
+            }
+        ]
+    },
+    {   
+        "collageId":2,
+        "collegeName": "North South University",
+        "collegeImage": "http://www.northsouth.edu/newassets/images/nsu2.jpg",
+        "collegeRating": 4.7,
+        "admissionDate": "October 5, 2023",
+        "numberOfResearch": 70,
+        "admitionSubject":["Math","Physics","Chemistry","Biology","CSE","EEE","IBA","Bangla"],
+        "discription":"North South University (NSU) is a premier private university in Bangladesh, renowned for its academic rigor and innovation. Situated in the heart of Dhaka, NSU offers a comprehensive range of programs spanning business, engineering, humanities, and social sciences. The university places great importance on research and critical thinking, encouraging students to explore new ideas and contribute to knowledge advancement. With a dedicated faculty and modern campus infrastructure, NSU provides a vibrant and inclusive learning environment, equipping graduates with the skills and knowledge to excel in their chosen careers and make a meaningful impact on society.",
+        "events": [
+            {
+                "eventName": "Music Festival 2023",
+                "eventDate": "November 18-20, 2023",
+                "eventDescription": "Experience a melodic extravaganza with performances by renowned musicians and emerging talents."
+            },
+            {
+                "eventName": "Environmental Awareness Week",
+                "eventDate": "March 22-26, 2024",
+                "eventDescription": "Participate in workshops, tree-planting drives, and talks to promote environmental conservation."
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "facilityName": "Tennis Complex",
+                "facilityDescription": "Play tennis on our well-maintained tennis courts, available for both casual play and competitive matches."
+            },
+            {
+                "facilityName": "Track and Field",
+                "facilityDescription": "Train and compete in various track and field events on our professional-grade athletics track."
+            }
+        ]
+    },
+    {   
+        "collageId":3,
+        "collegeName": "Daffodil International University",
+        "collegeImage": "https://daffodilvarsity.edu.bd/template/images/social-share/bg4.jpg",
+        "collegeRating": 4.2,
+        "admissionDate": "August 25, 2023",
+        "numberOfResearch": 30,
+        "admitionSubject":["Math","Physics","Chemistry","Biology","CSE","EEE","IBA","English"],
+        "discription":"Daffodil International University (DIU) is a dynamic and progressive private university located in Dhaka, Bangladesh. Committed to excellence in education, DIU offers a wide array of undergraduate and postgraduate programs in fields such as business, engineering, technology, and humanities. The university focuses on nurturing creativity, leadership, and entrepreneurship among its students, preparing them for success in a rapidly changing world. With industry-oriented curriculum and modern facilities, DIU provides ample opportunities for practical learning and research, fostering a culture of innovation and problem-solving.",
+        "events": [
+            {
+                "eventName": "Art Expo 2023",
+                "eventDate": "October 10-12, 2023",
+                "eventDescription": "Explore the world of art through captivating exhibitions, workshops, and live demonstrations."
+            },
+            {
+                "eventName": "Tech Summit 2024",
+                "eventDate": "February 15, 2024",
+                "eventDescription": "Witness the latest technological advancements and attend talks by industry experts at our tech summit."
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "facilityName": "Indoor Sports Arena",
+                "facilityDescription": "Engage in various indoor sports like basketball, volleyball, and badminton in our spacious sports arena."
+            },
+            {
+                "facilityName": "Tennis Courts",
+                "facilityDescription": "Sharpen your tennis skills on our well-maintained tennis courts suitable for players of all levels."
+            }
+        ]
+    },
+    {
+        "collageId":4,
+        "collegeName": "American International University-Bangladesh",
+        "collegeImage": "https://www.aiub.edu/Files/Uploads/original/banner-3.jpg",
+        "collegeRating": 4.8,
+        "admissionDate": "July 20, 2023",
+        "numberOfResearch": 80,
+        "admitionSubject":["Math","Physics","Chemistry","Biology","CSE","EEE","IBA"],
+        "discription":"American International University-Bangladesh (AIUB) is an esteemed private university in Dhaka that upholds international standards of education. With a strong emphasis on global exposure, AIUB offers a diverse range of programs that integrate theoretical knowledge with practical applications. The university's faculty consists of renowned academics and industry experts, providing students with valuable insights and mentorship. AIUB also promotes extracurricular activities and community engagement, enabling students to develop leadership skills and social responsibility. As a result, AIUB graduates are well-prepared to meet the challenges of the modern world and thrive in their chosen professions.",
+        "events": [
+            {
+                "eventName": "Literary Festival 2023",
+                "eventDate": "November 2-5, 2023",
+                "eventDescription": "Celebrate literature through poetry readings, book launches, and panel discussions by renowned authors."
+            },
+            {
+                "eventName": "Health and Wellness Week",
+                "eventDate": "March 7-11, 2024",
+                "eventDescription": "Participate in workshops, yoga sessions, and seminars focused on promoting health and well-being."
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "facilityName": "Fitness Center",
+                "facilityDescription": "Stay fit with the help of our modern fitness center equipped with the latest exercise equipment."
+            },
+            {
+                "facilityName": "Soccer Field",
+                "facilityDescription": "Play soccer with friends and fellow students on our well-maintained soccer field."
+            }
+        ]
+    },
+    {
+        "collageId":5,
+        "collegeName": "Independent University, Bangladesh",
+        "collegeImage": "https://i0.wp.com/phy.iub.edu.bd/wp-content/uploads/2022/03/centre.jpg?fit=2000%2C1060",
+        "collegeRating": 4.3,
+        "admissionDate": "August 30, 2023",
+        "numberOfResearch": 40,
+        "admitionSubject":["Math","Physics","Chemistry","Biology","CSE","EEE","IBA","Bangla"],
+        "discription":"Independent University, Bangladesh (IUB), located in Dhaka, is a prestigious private university committed to fostering intellectual growth and personal development. With a focus on research and critical thinking, IUB offers a wide range of programs in areas such as business, social sciences, arts, and engineering. The university promotes a learner-centric approach, encouraging students to explore their passions and interests while gaining a strong academic foundation. IUB's faculty comprises accomplished scholars and practitioners who provide mentorship and support for students' academic and professional pursuits.",
+        "events": [
+            {
+                "eventName": "Cultural Week 2023",
+                "eventDate": "October 20-25, 2023",
+                "eventDescription": "Experience the diverse cultures of our students through performances, food, and traditional displays."
+            },
+            {
+                "eventName": "Business Symposium",
+                "eventDate": "February 25, 2024",
+                "eventDescription": "Gain insights from industry leaders and entrepreneurs at our annual business symposium."
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "facilityName": "Swimming Pool",
+                "facilityDescription": "Enjoy swimming and aquatic activities in our well-maintained swimming pool."
+            },
+            {
+                "facilityName": "Basketball Court",
+                "facilityDescription": "Shoot hoops and enjoy basketball games on our outdoor basketball court."
+            }
+        ]
+    },
+    {
+        "collageId":6,
+        "collegeName": "United International University",
+        "collegeImage": "https://fastly.4sqi.net/img/general/600x600/596420105__Wpb_x2z1jROFVTFCErO-il0kQcYzoHCY8cOohUQ2Jw.jpg",
+        "collegeRating": 4.6,
+        "admissionDate": "July 15, 2023",
+        "numberOfResearch": 60,
+        "admitionSubject":["Math","Physics","Chemistry","Biology","CSE","EEE","IBA","English"],
+        "discription":"United International University (UIU) is a leading private university in Bangladesh, situated in Dhaka. Dedicated to academic excellence and innovation, UIU offers a diverse range of programs, including business, engineering, computer science, and social sciences. The university fosters a vibrant learning environment, encouraging students to engage in research, entrepreneurship, and extracurricular activities. With a focus on practical skills and industry exposure, UIU equips graduates with the tools and knowledge to excel in their careers and contribute positively to society. The university's commitment to holistic education ensures that UIU alumni are well-rounded individuals ready to make a difference in the world.",
+        "events": [
+            {
+                "eventName": "Dance Extravaganza",
+                "eventDate": "November 8-10, 2023",
+                "eventDescription": "Witness stunning dance performances and participate in dance workshops led by talented artists."
+            },
+            {
+                "eventName": "Tech Expo 2024",
+                "eventDate": "March 5, 2024",
+                "eventDescription": "Explore cutting-edge technology and innovative projects showcased at our tech expo."
+            }
+        ],
+        "sportsFacilities": [
+            {
+                "facilityName": "Gymnasium",
+                "facilityDescription": "Work out and stay fit in our fully-equipped gymnasium with trained fitness instructors."
+            },
+            {
+                "facilityName": "Cricket Ground",
+                "facilityDescription": "Enjoy cricket matches and practice sessions on our well-maintained cricket ground."
+            }
+        ]
+    }
+]
