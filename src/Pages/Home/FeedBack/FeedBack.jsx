@@ -21,7 +21,7 @@ const FeedBack = () => {
 
                         <p className="font-bold">Universitey name : {item?.universityName} </p>
                         <p>Name: {item?.studentsName}</p>
-                        <p>Feedback : {item?.studentsName}</p>
+                        <p>Feedback : {item?.feedbacks}</p>
 
                     </div>)
                 }
