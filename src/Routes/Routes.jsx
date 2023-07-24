@@ -9,6 +9,7 @@ import Addmition from "../Pages/Addmitoin/Addmition";
 import MyCollege from "../Pages/MyCollege/MyCollege";
 import Detaispage from "../Pages/Home/Detailspage/Detaispage";
 import PrivetRoutes from "./PrivetRoutes";
+import Profle from "../Pages/Profile/Profle";
 
 
 const router = createBrowserRouter([
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
             {
                 path:'/',
                 element: <Home />
+            },
+            {
+                path:'/profile',
+                element: <Profle />
             },
             {
                 path:'/collage',

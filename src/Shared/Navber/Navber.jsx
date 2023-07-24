@@ -48,7 +48,7 @@ const Navber = () => {
                         }
                     </li>
                     {
-                        user?.displayName && <button className='btn bg-blue-600 text-white md:ml-8 font-semibold px-3 py-1 rounded duration-500 md:static'>{user?.displayName}</button>
+                        user?.displayName && <button className='btn bg-blue-600 text-white md:ml-8 font-semibold px-3 py-1 rounded duration-500 md:static'> <Link to={'/profile'}>{user?.displayName}</Link></button>
                     }
 
                 </ul>
