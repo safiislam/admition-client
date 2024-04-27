@@ -32,7 +32,7 @@ const Addmition = () => {
     const { data: myCollage = [] } = useQuery({
         queryKey: ['myCollege', user?.email],
         queryFn: async () => {
-            const response = await axios.get(`http://localhost:5000/myCollege?email=${user?.email}`)
+            const response = await axios.get(`https://admition-collage-server.vercel.app/myCollege?email=${user?.email}`)
             return response.data
         }
     })
@@ -47,8 +47,8 @@ const Addmition = () => {
             const response = await axios.post(url, formData)
 
             const imgurl = response.data.data.display_url
-            const addmitionData = { collageId: collageIs.collageId, name: data.name, address: data.address, dateOfBirth: data.date, email: data.email, subject: data.subject, number: data.number, image: imgurl }
-
+            const addmitionData = { collegeName: collageIs.collegeName , collageId: collageIs.collageId, name: data.name, address: data.address, dateOfBirth: data.date, email: data.email, subject: data.subject, number: data.number, image: imgurl }
+            
             await axios.post('https://admition-collage-server.vercel.app/admission', addmitionData)
                 .then(data => {
                     if (data.data.acknowledged) {
